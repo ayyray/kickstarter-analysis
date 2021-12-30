@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Launch-Date-Success Campaign Analysis
 analysis of kickstarter data for module 1 challenge
 
 ![goals](Outcomes_vs_Goals.png)
