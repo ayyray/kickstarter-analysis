@@ -138,11 +138,11 @@ A couple of limitations I recognized from the data set were:
 3.	Branching off “how much money was spent on the campaign”, I would like to see how much money has gone into the project. Not just the campaign side but total production/project value. I think this would be beneficial in analyzing investors willingness to donate or invest in a campaign project that is more expensive or less expensive.
 
 #### Recommendations:
-I believe having a table or a graph that focused on the duration of the campaign would be beneficial in providing a visual of success based on duration of campaign. I would use the Unix Timestamp as my duration variable. I believe this would be a great addition in that it would be able to further pinpoint which months were most fruitful in launch success.
+1. I believe having a table or a graph that focused on the duration of the campaign would be beneficial in providing a visual of success based on duration of campaign. I would use the Unix Timestamp as my duration variable. I believe this would be a great addition in that it would be able to further pinpoint which months were most fruitful in launch success.
 
-Another table that would be nice to have is a graph that shows the relationship between backer count and average donations. I would include this because it would help in creating a business plan when figuring out what average donations look like. It would also be helpful to highlight outliers of BIG donation amounts.
+2. Another table that would be nice to have is a graph that shows the relationship between backer count and average donations. I would include this because it would help in creating a business plan when figuring out what average donations look like. It would also be helpful to highlight outliers of BIG donation amounts.
 
-The third and final recommended table I would like to see is Outcomes Based on Goals but with a different category. In challenge 1, the dataset was filtered under the Parent Category “theater”. In challenge 2 the data was filtered under subcategory “plays”. I would like to either continue using the same filtered data from challenge 1 and apply it to the same analysis from challenge 2 or vice versa. 
+3. The third and final recommended table I would like to see is Outcomes Based on Goals but with a different category. In challenge 1, the dataset was filtered under the Parent Category “theater”. In challenge 2 the data was filtered under subcategory “plays”. I would like to either continue using the same filtered data from challenge 1 and apply it to the same analysis from challenge 2 or vice versa. 
 
 
 
